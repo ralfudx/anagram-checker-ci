@@ -56,7 +56,7 @@ console.log(isAnagram('hello', 'world'));   // false
 
 1. Clone this repository
 ```
-git clone https://github.com/<your-username>/anagram-checker-ci.git
+git clone https://github.com/ralfudx/anagram-checker-ci.git
 
 cd anagram-checker-ci
 ```

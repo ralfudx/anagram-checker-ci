@@ -2,18 +2,9 @@
   "name": "anagram-checker-ci",
   "version": "1.0.0",
   "description": "This project Implement a function that determines whether two strings are anagrams.",
-  "homepage": "https://github.com/ralfudx/anagram-checker-ci#readme",
-  "bugs": {
-    "url": "https://github.com/ralfudx/anagram-checker-ci/issues"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ralfudx/anagram-checker-ci.git"
-  },
   "license": "ISC",
   "author": "Raphael Edwards",
   "type": "module",
-  "main": "isAnagram.js",
   "scripts": {
     "test": "NODE_NO_WARNINGS=1 NODE_OPTIONS=--experimental-vm-modules jest"
   },
